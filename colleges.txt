@@ -1,0 +1,5 @@
+vjit-ai
+vjit-cse
+vjit-ece
+vjit-eee
+vjit-civil 
